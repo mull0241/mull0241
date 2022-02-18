@@ -23,7 +23,7 @@ data science techniques and practices can be applied to real world problems.
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=mull0241&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Scott's Top Languages">
 
 <br>
-<img align="right" height="240px" alt="GIF" src="https://911821.smushcdn.com/2227390/wp-content/themes/alexander/assets/img/subject-computer-science.jpg?lossy=1&strip=1&webp=1" />
+<img align="right" height="200px" alt="GIF" src="https://911821.smushcdn.com/2227390/wp-content/themes/alexander/assets/img/subject-computer-science.jpg?lossy=1&strip=1&webp=1" />
 
 ### Contact Details
 - 📫 Email - mullin.scott@gmail.com
