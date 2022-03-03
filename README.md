@@ -14,6 +14,10 @@ data science techniques and practices can be applied to real world problems.
 |----------------------- |--------------------------------------------------------------------------------------------------------------------|
 | How data science and AI have evolved gaming technology   | https://www.businesstoday.in/opinion/columns/story/how-data-science-and-ai-have-evolved-gaming-technology-322938-2022-02-17  |
 | K-Nearest Neighbor (KNN) Algorithm in Python   | https://datagy.io/python-knn/  |
+| Ways I Use Testing as a Data Scientist   | https://www.peterbaumgartner.com/blog/testing-for-data-science/  |
+| Structural Subtyping in Python   | https://rednafi.github.io/reflections/structural-subtyping-in-python.html  |
+| A Comprehensive Guide to Slicing in Python   | https://dev.to/bascodes/a-comprehensive-guide-to-slicing-in-python-mko |
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :zap: Github Stats
