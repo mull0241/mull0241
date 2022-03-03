@@ -13,6 +13,7 @@ data science techniques and practices can be applied to real world problems.
 | Article                | Link                                                                                                               |
 |----------------------- |--------------------------------------------------------------------------------------------------------------------|
 | How data science and AI have evolved gaming technology   | https://www.businesstoday.in/opinion/columns/story/how-data-science-and-ai-have-evolved-gaming-technology-322938-2022-02-17  |
+| K-Nearest Neighbor (KNN) Algorithm in Python   | https://datagy.io/python-knn/  |
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :zap: Github Stats
