@@ -17,6 +17,7 @@ data science techniques and practices can be applied to real world problems.
 | Ways I Use Testing as a Data Scientist   | https://www.peterbaumgartner.com/blog/testing-for-data-science/  |
 | Structural Subtyping in Python   | https://rednafi.github.io/reflections/structural-subtyping-in-python.html  |
 | A Comprehensive Guide to Slicing in Python   | https://dev.to/bascodes/a-comprehensive-guide-to-slicing-in-python-mko |
+| How to build an API strategy in five easy steps   | https://www.snaplogic.com/blog/how-to-build-an-api-strategy-in-five-easy-steps?utm_medium=NUR&mkt_tok=MDU1LUZZSi05MTYAAAGC6zHxA65FH45pRHQiz66lIUfIKK_xX1x1jHBoninq0LgzAerJcaUldqExtu1XuiNItKvkmquDd-RGL2Tmp_4L2FOFwAJFHQjb47jEx3PYE21EhoamaHXkUL0 |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
